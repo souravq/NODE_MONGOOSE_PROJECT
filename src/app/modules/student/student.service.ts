@@ -1,4 +1,4 @@
-import StudentModel from './student.module'
+import StudentModel from './student.model'
 import { Student } from './student.interface'
 
 // Create Student
